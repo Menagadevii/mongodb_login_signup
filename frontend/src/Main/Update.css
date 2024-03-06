@@ -1,0 +1,62 @@
+/* Update.css */
+
+.update {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .update1 {
+    width: 350px;
+    padding: 20px;
+    border: 10px solid black;
+    border-radius: 5px;
+  }
+  
+  .update1 h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .update2,
+  .update3,
+  .update4,
+  .update5 {
+    margin-bottom: 10px;
+    color:deeppink;
+  }
+  
+  .update2 input,
+  .update3 input,
+  .update4 input,
+  .update5 input {
+    width: 95%;
+    color: black;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  .update6,
+  .update7 {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .update6:hover,
+  .update7:hover {
+    background-color: #0056b3;
+  }
+  
+  .update7 {
+    margin-left: 10px;
+  }
+  

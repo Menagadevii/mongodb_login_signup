@@ -1,0 +1,35 @@
+.details {
+    margin: 20px;
+  }
+  
+  .details h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color:deeppink;
+  }
+  
+  .details4 {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .details4 th, .details4 td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    text-align: center;
+  }
+  
+  .details4 th {
+    background-color:skyblue;
+  }
+  
+  .details5 {
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .details5:hover {
+    text-decoration: underline;
+    color:green;
+  }

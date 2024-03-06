@@ -1,4 +1,4 @@
-
+ 
 .signup_container {
 	width: 100%;
 	min-height: 100vh;
@@ -20,12 +20,12 @@
 }
 
 .left {
-	flex: 1;
+	flex: 2;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	/* background-color:palevioletred; */
+	background-color:palevioletred;
 	background-image: url('C:\Users\SightSpectrum\Desktop\reactjs\project\public\image\ATS1.jpg');
 	background-size: cover;
 	border-top-left-radius: 10px;
@@ -101,4 +101,5 @@
 	background-color:palevioletred;
 	color: white;
 	margin: 10px;
-}
+} 
+
